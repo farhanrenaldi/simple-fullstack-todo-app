@@ -1,5 +1,5 @@
 # Simple Todo App Project
-A simple make-a-todo-list app, using **React** as the front-end framework and **NestJS** with REST API as the back-end framework. This project is built for my learning purpose to practice with building UI with React, establishing a REST API framework, and familiarizing myself to the web development workflow and design patterns.
+A simple todo-list app, using **React** as the front-end framework and **NestJS** with REST API as the back-end framework. This project is built for my learning purpose to practice with building UI with React, establishing a REST API framework, and familiarizing myself to the web development workflow and design patterns.
 
 <p align="center">
     <img src="Screenshots/front.png"
